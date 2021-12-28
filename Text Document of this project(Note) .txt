@@ -1,0 +1,6 @@
+
+Database Name: bus
+Table Name: book
+Table column: (id auto primary key and auto increment) id,cname,setno,price,date
+
+Must add jCalender
